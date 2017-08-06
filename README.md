@@ -70,7 +70,6 @@ discrepancies, please contact the author (see "CONTACT" below.)
 CONTACT & FURTHER INFORMATION
 -----------------------------
 For more information, visit the websites at
-http://shack.battletek.org
 http://mekwars.sourceforge.net:
 http://megamek.sourceforge.net/
 
@@ -79,7 +78,7 @@ http://www.classicbattletech.com/
 
 
 To contact the author with bug reports, suggestions, or anything else, visit 
-the contact page on the MegaMek website, or send email to bmazur@sev.org
+the contact page on the MegaMek website, or send email to admin@TechnoAnomaly.com.
 
 
 

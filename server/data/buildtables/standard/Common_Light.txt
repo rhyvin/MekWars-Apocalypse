@@ -1,0 +1,13 @@
+5 Firestarter FS9-H.MTF
+5 Javelin JVN-10N.MTF
+5 Locust LCT-1V.MTF
+5 Locust LCT-1S.MTF
+2 Spider SDR-5V.MTF
+5 Stinger STG-3R.MTF
+5 Wasp WSP-1A.MTF
+5 Urbanmech UM-R60.MTF
+1 Javelin JVN-10F.MTF
+3 Locust LCT-1E.MTF
+2 Ostscout OTT-7J.MTF
+2 Stinger STG-3G.MTF
+2 Locust LCT-3V.MTF
